@@ -1,7 +1,7 @@
-package Main;
-import com.gopinath.assignment.employees.Manager;
-import com.gopinath.assignment.employees.Developer;
-import com.gopinath.assignment.utilities.EmployeeUtilities;
+package com.gopinath.assignment1.main;
+import com.gopinath.assignment1.employees.Developer;
+import com.gopinath.assignment1.employees.Manager;
+import com.gopinath.assignment1.utilities.EmployeeUtilities;
 
 /**
  * Main class to test the Employee hierarchy and utilities.

@@ -1,8 +1,8 @@
-package com.gopinath.assignment.utilities;
+package com.gopinath.assignment1.utilities;
 
-import com.gopinath.assignment.employees.Employee;
-import com.gopinath.assignment.employees.Manager;
-import com.gopinath.assignment.employees.Developer;
+import com.gopinath.assignment1.employees.Developer;
+import com.gopinath.assignment1.employees.Employee;
+import com.gopinath.assignment1.employees.Manager;
 
 /**
  * Utility class for Employee-related operations.
